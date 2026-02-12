@@ -1,4 +1,4 @@
-# hear-hear
+# luister
 
 This repository contains the code to download and process data for the Luister! project. This README will updated soon! The code will be shared under the MIT License.
 
