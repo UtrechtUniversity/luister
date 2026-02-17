@@ -36,3 +36,21 @@ The data processing pipeline involves (sections copied from the data processing 
 5. *Implement a batch file to automate scripts*. Self-explanatory.
 
 6. *Provide code for data upload to / download from Yoda*. Requires iBridges.
+
+### 2026-02-17
+
+- Rianne will give Neha access to the Qualtrics, especially for the ExternalReference column
+- Neha will compare the exports and ask Rianne if there are mismatches in the config file 
+
+#### REQUIREMENTS & DUE DATES
+
+By 2026-03-31:
+
+ 1. jongeren M1
+ 2. ouders M1
+ 3. jongeren M2
+ 4. ouders M2
+
+By 2026-03-31 ideally or a month later:
+
+- weekly diaries, merged with M1
